@@ -1,0 +1,25 @@
+COMMANDS -
+
+1. greet - calls a command which creates a function that outputs a given name and a hello statement.
+
+2. sing - creates string text that outputs the song 'Twinkle Little Star'.
+
+3. date - creates a function that uses the datetime module to output the current date.
+
+4. month - creates a function that uses the datetime module to output the current month.
+
+5. time - creates a function that uses the datetime module to output the current time.
+
+6. year - creates a function that uses the datetime module to output the current year.
+
+7. mirror - mirrors inputted text onto the interactive console to teach basic input/output.
+
+8. calc - a command to teach about variables in python using the basics of a calculator.
+
+9. password - a command that generates a random sequence of numbers, letters, and puctuations to create a legitimate secure password. Teaches the basics of classes and logic.
+
+10. encrypt - a simple hasher used to teach basics of simple algorithms.
+
+11. decrypt - a simple dehasher used to teach the basics of simple algorithms.
+
+12. 8ball - a simple program that emulates a magic 8-ball that teaches the basics of classes and integer inputs.
